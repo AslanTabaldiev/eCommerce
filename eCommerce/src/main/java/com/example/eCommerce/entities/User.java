@@ -1,10 +1,10 @@
-package com.example.eCommerce.entity;
+package com.example.eCommerce.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
-@Table(name = "users_t")
+@Table(name = "users_table")
 @Getter
 @Setter
 @Entity

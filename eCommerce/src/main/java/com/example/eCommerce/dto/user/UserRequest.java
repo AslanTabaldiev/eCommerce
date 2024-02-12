@@ -1,4 +1,4 @@
-package com.example.eCommerce.dto;
+package com.example.eCommerce.dto.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
